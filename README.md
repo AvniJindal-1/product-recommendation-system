@@ -23,6 +23,3 @@ It uses techniques like collaborative filtering and content-based filtering to p
 
 ---
 ## 
-
-1. Clone the repository  
-2. Install dependencies:
